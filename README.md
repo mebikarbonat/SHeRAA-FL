@@ -1,5 +1,6 @@
 # SHeRAA-FL Framework
 Paper- Mitigating Adversarial Attacks in Federated Learning Based Network Traffic Classification Applications using Secure Hierarchical Remote Attestation and Adaptive Aggregation Framework
+DOI:10.5281/zenodo.15300137
 
 # Deployed on:
 ## Hosts
